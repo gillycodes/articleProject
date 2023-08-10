@@ -33,3 +33,7 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+#file
+SecondApp.js
+ArticleDick.jsx
